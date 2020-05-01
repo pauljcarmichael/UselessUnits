@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Useless Units</string>
+    <string name="edit_message">Enter your name</string>
+    <string name="button_send">send</string>
+    <string name="edit_message2">enter you zip code here</string>
+    <string name="question_string">What units should we convert?</string>
+    <string name="length">Length</string>
+    <string name="area">Area</string>
+    <string name="enter_si_length">Enter the length to convert</string>
+    <string name="metres">metres</string>
+    <string name="boring">The boring conversions</string>
+    <string name="fun">Now swipe for the fun stuff!</string>
+    <string name="main_title">The\nUseless\nUnit\nConversion\nCalculator</string>
+    <string-array name="length_array">
+        <item>mm</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>in</item>
+        <item>ft</item>
+        <item>yd</item>
+    </string-array>
+    <string-array name="area_array">
+        <item>cm<sup><small>2</small></sup></item>
+        <item>m<sup><small>2</small></sup></item>
+        <item>hectare</item>
+        <item>in<sup><small>2</small></sup></item>
+        <item>ft<sup><small>2</small></sup></item>
+        <item>acre</item>
+    </string-array>
+    <string-array name="time_array">
+        <item>sec</item>
+        <item>min</item>
+        <item>hr</item>
+        <item>day</item>
+        <item>year</item>
+    </string-array>
+    <string-array name="power_array">
+        <item>hp</item>
+        <item>W</item>
+        <item>kW</item>
+        <item>j</item>
+    </string-array>
+    <string name="altuvedescription">1 Altuve = 5 feet 5 inches after Jose Altuve, one of the shortest players in MLB!</string>
+    <string name="bsdescription">Forget the LightYear! The BeardSecond is the length a beard grows in one earth second. Equal to about 10nm.</string>
+    <string name="furlongdescription">The furlong is the length of a furrow of a plowed field which in turn is the length a team of oxen could plow without needing a smoke break. Equal to 40 rods, 10 chains or 201m for you and me.</string>
+    <string name="oxgangdecscription">An Oxgang was the amount of land tillable by one ox in a ploughing season. This could vary from village to village, but was typically around 15 acres.</string>
+    <string name="footballfielddescription">The standard FIFA football pitch is 105 m (344 ft) long by 68 m (223 ft) wide (7,140 m<sup><small>2</small></sup> or 0.714 ha or 1.76 acres)</string>
+    <string name="barndescription">The Barn is a nuclear physics expression for the size of a uranium nucleus with regards to the difficult in colliding particles and the old idiom couldnt hit the broad side of a barn. (1 Barn = 10e-28 m<sup><small>2</small></sup>)</string>
+
+</resources>
